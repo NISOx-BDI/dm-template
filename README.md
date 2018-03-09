@@ -12,13 +12,13 @@ See [CITATION](CITATION).
 
 <Summarise what's in this repository>
 
-## Reproducing figures and tables
+# How to reproduce figures and tables?
 
 <Instructions on how to use summary/derived data in the `results` directory to create figures and tables>
 
 <Specify precise steps, including any datasets that need to be downloaded and path variables that need to be set>
 
-## Reproducing full analysis
+# How to rerun the full analysis?
 
 <Instructions on how to (1) obtain raw data; (2) process it to create summary/derived data in the `results`>
 
