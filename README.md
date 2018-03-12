@@ -3,8 +3,17 @@
 # Project/Paper Title
 
 <Project description>
+  
+## Table of contents
+   * [How to cite?](#how-to-cite)
+   * [Contents overview](#contents-overview)
+   * [Reproducing figures and tables](#reproducing-figures-and-tables)
+      * [Table 1](#table-1)
+      * [Fig. 1](#fig-1)
+      * [Fig. 2](#fig-2)
+   * [Reproducing full analysis](#reproducing-full-analysis)
 
-# How to cite
+## How to cite?
 
 See [CITATION](CITATION).
 
@@ -18,7 +27,14 @@ See [CITATION](CITATION).
 
 <Specify precise steps, including any datasets that need to be downloaded and path variables that need to be set>
 
+
 # How to rerun the full analysis?
+
+### Table 1
+
+### Fig. 1
+
+### Fig. 2
 
 <Instructions on how to (1) obtain raw data; (2) process it to create summary/derived data in the `results`>
 
