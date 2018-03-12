@@ -17,18 +17,18 @@
 
 See [CITATION](CITATION).
 
-# Contents overview
+## Contents overview
 
 <Summarise what's in this repository>
 
-# How to reproduce figures and tables
+## How to reproduce figures and tables
 
 <Instructions on how to use summary/derived data in the `results` directory to create figures and tables>
 
 <Specify precise steps, including any datasets that need to be downloaded and path variables that need to be set>
 
 
-# How to rerun the full analysis
+## How to rerun the full analysis
 
 ### Table 1
 
